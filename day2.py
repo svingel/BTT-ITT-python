@@ -1,13 +1,5 @@
-# Betroot Academy - Intro To Tech - Week 4: Python
-
-# Homework Day 1 Basic
-
-print('Welcome To MyFriends 1.0!')
-
-# Homework Day 1 Advanced
-
-print('''\n#####\n#\t#\n#\t#\n#\t#\n#####''')
-print('''\n#\t#\n#\t#\n#####\n#\t#\n#\t#''')
+# Beetroot Academy - Intro To Tech - Week 4: Python
+# Magdalena Kostrzewa
 
 # Homework Day 2 Basic
 
@@ -19,7 +11,7 @@ friend_1_the_best = True
 friend_2_name = "John Doe"
 friend_2_email = "john.doe@example.com"
 friend_2_age = 45
-friend_2_the_best = False
+friend_2_the_best = True
 
 print("%s, %d years old. Email: %s" % (friend_2_name, friend_2_age, friend_2_email))
 
